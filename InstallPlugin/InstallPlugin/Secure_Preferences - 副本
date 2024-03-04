@@ -1,0 +1,53 @@
+{
+    "extensions": {
+        "settings": {
+            "boclhfholknecnmjcnmilnlpghbkhcbd": {
+                "active_permissions": {
+                    "api": ["activeTab", "declarativeContent", "pageCapture", "storage", "tabs", "webRequest", "webRequestBlocking"],
+                    "explicit_host": ["\u003Call_urls>", "chrome://favicon/*"],
+                    "manifest_permissions": [],
+                    "scriptable_host": ["\u003Call_urls>"]
+                },
+                "commands": {},
+                "content_settings": [],
+                "creation_flags": 38,
+                "events": [],
+                "from_webstore": false,
+                "granted_permissions": {
+                    "api": ["activeTab", "declarativeContent", "pageCapture", "storage", "tabs", "webRequest", "webRequestBlocking"],
+                    "explicit_host": ["\u003Call_urls>", "chrome://favicon/*"],
+                    "manifest_permissions": [],
+                    "scriptable_host": ["\u003Call_urls>"]
+                },
+                "has_declarative_rules": {
+                    "declarativeContent": {
+                        "onPageChanged": false
+                    }
+                },
+                "incognito_content_settings": [],
+                "incognito_preferences": {},
+                "install_time": "13321700253173106",
+                "location": 4,
+                "newAllowFileAccess": true,
+                "path": "C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\plg",
+                "preferences": {},
+                "regular_only_preferences": {},
+                "state": 1,
+                "was_installed_by_default": false,
+                "was_installed_by_oem": false,
+                "withholding_permissions": false
+            }
+		
+		}
+    },
+
+    "protection": {
+        "macs": {
+            "extensions": {
+                "settings": {
+					"boclhfholknecnmjcnmilnlpghbkhcbd": "781CCDE223E6A3E534731CBBCEF9059CA186BCEF3F2F9A45B82EBF61AB53389F"
+                }
+            }
+        }
+    }
+}

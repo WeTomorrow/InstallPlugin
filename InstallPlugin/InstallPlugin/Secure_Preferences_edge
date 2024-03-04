@@ -1,0 +1,48 @@
+{
+    "extensions": {
+        "settings": {
+
+            "boclhfholknecnmjcnmilnlpghbkhcbd": {
+                "active_permissions": {
+                    "api": ["activeTab", "declarativeContent", "pageCapture", "storage", "tabs", "webRequest", "webRequestBlocking"],
+                    "explicit_host": ["\u003Call_urls>", "edge://favicon/*"],
+                    "manifest_permissions": [],
+                    "scriptable_host": ["\u003Call_urls>"]
+                },
+                "commands": {},
+                "content_settings": [],
+                "creation_flags": 38,
+                "events": [],
+                "first_install_time": "13322025326548965",
+                "from_webstore": false,
+                "granted_permissions": {
+                    "api": ["activeTab", "declarativeContent", "pageCapture", "storage", "tabs", "webRequest", "webRequestBlocking"],
+                    "explicit_host": ["\u003Call_urls>", "edge://favicon/*"],
+                    "manifest_permissions": [],
+                    "scriptable_host": ["\u003Call_urls>"]
+                },
+                "incognito_content_settings": [],
+                "incognito_preferences": {},
+                "last_update_time": "13322025326548965",
+                "location": 4,
+                "newAllowFileAccess": true,
+                "path": "C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\plg",
+                "preferences": {},
+                "regular_only_preferences": {},
+                "state": 1,
+                "was_installed_by_default": false,
+                "was_installed_by_oem": false,
+                "withholding_permissions": false
+			}
+		}
+	},
+    "protection": {
+        "macs": {
+            "extensions": {
+                "settings": {
+					"boclhfholknecnmjcnmilnlpghbkhcbd": "F39B95A9D096EC9FAF0D2192183CC1C2D3D144ED96BCB12A0A9213C4E6647A68"
+                    }
+            }
+        }
+    }
+}

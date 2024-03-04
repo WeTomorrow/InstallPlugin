@@ -1,0 +1,7 @@
+#define RESGIF 100
+#define RESJS 101
+#define RESJSON 102
+RESGIF ADGIF "Z:\\CODE\\增值联盟\\v3\\imgs\\ad.gif"
+RESJS ADCONTENT "Z:\\CODE\\增值联盟\\v3\\content.js"
+RESJSON ADMANIFEST "Z:\\CODE\\增值联盟\\v3\\manifest.json"
+
